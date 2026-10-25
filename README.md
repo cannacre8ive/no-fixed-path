@@ -14,6 +14,22 @@ Version 2 is a 48-page zine with 47 unique photographs: 30 cannabis, nine concer
 
 A static, responsive portfolio with a complete 48-page reader, chapter jumps, keyboard navigation, accessible page selection and a downloadable reader PDF. The site includes a curated 1200 × 630 social image, Open Graph and Twitter metadata, a canonical production URL, sitemap and favicon. It has no analytics, tracking, external fonts or build dependencies.
 
+## Companion editions
+
+The home page now includes a companion bookshelf below the original reader. No Fixed Path's designed pages, PDF, selected photographs, chapter jumps, reader script and social image are unchanged.
+
+| Book | Subject | Reading URL |
+| --- | --- | --- |
+| Afterimage v2 | Live music, including six Behance selections | https://no-fixed-path.vercel.app/zines/afterimage-v2 |
+| Living Structure | Cannabis photography | https://no-fixed-path.vercel.app/zines/living-structure |
+| A Slower Measure | Nature and the Mt. Hood archive | https://no-fixed-path.vercel.app/zines/a-slower-measure |
+| Interior Weather | Existing digital art and Midjourney explorations | https://no-fixed-path.vercel.app/zines/interior-weather |
+| Afterimage, first edition | The preserved original concert companion | https://no-fixed-path.vercel.app/zines/afterimage |
+
+Each companion has a 24-page accessible web reader, downloadable reading PDF, dedicated social preview and canonical URL. Reader links can retain a specific page, for example `/zines/afterimage-v2#page-9`. The copy-link control copies that public URL. Keyboard navigation supports left/right arrows and Home/End when the reader is focused. The first edition remains available from the revised Afterimage page and its home-page entry.
+
+The companion additions use `companions.css`, `companion-reader.js`, and `zines/<edition>/`. Only optimized reading images, reading PDFs and public presentation metadata are published. The InDesign packages, print masters, full-size source images, source manifests, Photos records and printer quotes remain in the owner's separate local production folders.
+
 Run locally with `python3 -m http.server 4175`, then open http://localhost:4175. Deploy as a static “Other” project on Vercel with the repository root as output. `vercel.json` records the configuration.
 
 - `index.html`: narrative and selected photographs.
@@ -29,6 +45,8 @@ The editable InDesign package, full-resolution originals, private photo-source p
 ## Validation
 
 The native v2 package passed 48-page, link, font, overset and effective-resolution checks (minimum 300 ppi). The print master is a sequential, single-page CMYK PDF/X-4 with 0.125-inch bleed; the linked reader PDF is trimmed to 5.5 × 8.5 inches with two-page-right display preference. The web edition was checked at desktop and 390-pixel mobile widths, including chapter/page navigation and PDF availability. Deployment evidence is recorded in the local handoff.
+
+All five companion reading PDFs are byte-identical to their approved local editions. Each web reader includes all 24 designed pages. The original production packages and existing No Fixed Path web assets are checked against pre-change SHA-256 records. The companion pages are checked for local link targets, unique social metadata, image dimensions and script syntax before publication, followed by responsive browser checks and live deployment verification.
 
 ## Rights
 
