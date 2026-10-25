@@ -24,9 +24,10 @@ The home page now includes a companion bookshelf below the original reader. No F
 | Living Structure | Cannabis photography | https://no-fixed-path.vercel.app/zines/living-structure |
 | A Slower Measure | Nature and the Mt. Hood archive | https://no-fixed-path.vercel.app/zines/a-slower-measure |
 | Interior Weather | Existing digital art and Midjourney explorations | https://no-fixed-path.vercel.app/zines/interior-weather |
+| The Only Place That Felt Like Home | Cabin journal, 48 pages | https://no-fixed-path.vercel.app/zines/the-only-place |
 | Afterimage, first edition | The preserved original concert companion | https://no-fixed-path.vercel.app/zines/afterimage |
 
-Each companion has a 24-page accessible web reader, downloadable reading PDF, dedicated social preview and canonical URL. Reader links can retain a specific page, for example `/zines/afterimage-v2#page-9`. The copy-link control copies that public URL. Keyboard navigation supports left/right arrows and Home/End when the reader is focused. The first edition remains available from the revised Afterimage page and its home-page entry.
+Each companion has an accessible web reader, downloadable reading PDF, dedicated social preview and canonical URL. Reader links can retain a specific page, for example `/zines/afterimage-v2#page-9`. The copy-link control copies that public URL. Keyboard navigation supports left/right arrows and Home/End when the reader is focused. The first edition remains available from the revised Afterimage page and its home-page entry.
 
 The companion additions use `companions.css`, `companion-reader.js`, and `zines/<edition>/`. Only optimized reading images, reading PDFs and public presentation metadata are published. The InDesign packages, print masters, full-size source images, source manifests, Photos records and printer quotes remain in the owner's separate local production folders.
 
@@ -46,8 +47,12 @@ The editable InDesign package, full-resolution originals, private photo-source p
 
 The native v2 package passed 48-page, link, font, overset and effective-resolution checks (minimum 300 ppi). The print master is a sequential, single-page CMYK PDF/X-4 with 0.125-inch bleed; the linked reader PDF is trimmed to 5.5 × 8.5 inches with two-page-right display preference. The web edition was checked at desktop and 390-pixel mobile widths, including chapter/page navigation and PDF availability. Deployment evidence is recorded in the local handoff.
 
-All five companion reading PDFs are byte-identical to their approved local editions. Each web reader includes all 24 designed pages. The original production packages and existing No Fixed Path web assets are checked against pre-change SHA-256 records. The companion pages are checked for local link targets, unique social metadata, image dimensions and script syntax before publication, followed by responsive browser checks and live deployment verification.
+All companion reading PDFs are byte-identical to their approved local editions. The earlier companion readers each include 24 designed pages; the cabin journal includes 48. The original production packages and existing No Fixed Path web assets are checked against pre-change SHA-256 records. The companion pages are checked for local link targets, unique social metadata, image dimensions and script syntax before publication, followed by responsive browser checks and live deployment verification.
 
 ## Rights
 
 All photography and personal narrative © Spencer Gray. See [RIGHTS.md](RIGHTS.md). The public availability of this repository is not a grant to reuse the photographs. Design and editorial assistance: Codex, as credited in the zine.
+
+## The Only Place That Felt Like Home
+
+The new 48-page cabin edition is an additional companion. It has its own reading page, exact reading-PDF download, chapter links and curated social image. The original No Fixed Path and previous companion readers are retained.
