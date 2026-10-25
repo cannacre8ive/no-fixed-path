@@ -4,6 +4,8 @@ A photographic field journal by **Spencer Gray**: cannabis, live music, open air
 
 **Live edition:** https://no-fixed-path.vercel.app/
 
+Vercel is connected to this GitHub repository. Pushes to `main` deploy the production site automatically.
+
 Version 2 is a 48-page zine with 47 unique photographs: 30 cannabis, nine concert and eight nature photographs. This revision includes two Dijon images and two Allan Rayman images selected from Spencer's archive. The personal narrative includes Spencer's own account of LSD helping him believe in himself and choose a creative life.
 
 ![Portfolio website](screenshots/desktop.png)
