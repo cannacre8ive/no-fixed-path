@@ -56,3 +56,9 @@ All photography and personal narrative © Spencer Gray. See [RIGHTS.md](RIGHTS.m
 ## The Only Place That Felt Like Home
 
 The new 48-page cabin edition is an additional companion. It has its own reading page, exact reading-PDF download, chapter links and curated social image. The original No Fixed Path and previous companion readers are retained.
+
+## Art & imagination
+
+The additional `/art` collection features Night Logic (48 pages, 39 works) and links to the preserved Interior Weather edition. Night Logic uses existing Midjourney generations and digital design exports from Spencer's archive, with an editorial narrative adapted from his account of free association and psychedelic experiments. It has its own reader, reader PDF and curated share image at `/zines/night-logic`.
+
+The homepage adds a navigation link and a separate art feature. Existing No Fixed Path sections, five companion entries, all prior readers, PDFs, page images, metadata and scripts remain unchanged. Native InDesign/IDML, print PDF, full-size source images and provenance records stay in the local production package. New public files contain reading derivatives only.
