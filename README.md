@@ -25,6 +25,7 @@ The home page now includes a companion bookshelf below the original reader. No F
 | A Slower Measure | Nature and the Mt. Hood archive | https://no-fixed-path.vercel.app/zines/a-slower-measure |
 | Interior Weather | Existing digital art and Midjourney explorations | https://no-fixed-path.vercel.app/zines/interior-weather |
 | The Only Place That Felt Like Home | Cabin journal, 48 pages | https://no-fixed-path.vercel.app/zines/the-only-place |
+| Open Invitation | Friends / festivals / California, 48 pages | https://no-fixed-path.vercel.app/zines/open-invitation |
 | Afterimage, first edition | The preserved original concert companion | https://no-fixed-path.vercel.app/zines/afterimage |
 
 Each companion has an accessible web reader, downloadable reading PDF, dedicated social preview and canonical URL. Reader links can retain a specific page, for example `/zines/afterimage-v2#page-9`. The copy-link control copies that public URL. Keyboard navigation supports left/right arrows and Home/End when the reader is focused. The first edition remains available from the revised Afterimage page and its home-page entry.
@@ -51,7 +52,7 @@ All companion reading PDFs are byte-identical to their approved local editions. 
 
 ## Rights
 
-All photography and personal narrative © Spencer Gray. See [RIGHTS.md](RIGHTS.md). The public availability of this repository is not a grant to reuse the photographs. Design and editorial assistance: Codex, as credited in the zine.
+For the existing photography editions, all photography and personal narrative © Spencer Gray. Open Invitation is a personal archive; individual camera credits are unestablished. Do not assume sole photographic authorship by Spencer Gray for that edition. See [RIGHTS.md](RIGHTS.md) for the existing editions. The public availability of this repository is not a grant to reuse the photographs. Design and editorial assistance: Codex, as credited in the zine.
 
 ## The Only Place That Felt Like Home
 
@@ -62,3 +63,7 @@ The new 48-page cabin edition is an additional companion. It has its own reading
 The additional `/art` collection features Night Logic (48 pages, 39 works) and links to the preserved Interior Weather edition. Night Logic uses existing Midjourney generations and digital design exports from Spencer's archive, with an editorial narrative adapted from his account of free association and psychedelic experiments. It has its own reader, reader PDF and curated share image at `/zines/night-logic`.
 
 The homepage adds a navigation link and a separate art feature. Existing No Fixed Path sections, five companion entries, all prior readers, PDFs, page images, metadata and scripts remain unchanged. Native InDesign/IDML, print PDF, full-size source images and provenance records stay in the local production package. New public files contain reading derivatives only.
+
+## Open Invitation
+
+The new 48-page personal-archive edition is an additional companion. It does not attribute every photograph to Spencer Gray; credits appear where known. It has its own reading page, exact reading-PDF download, chapter links, page-specific share control and curated 1200 × 630 social image. The original No Fixed Path, all previous companion readers and the art collection are retained. Native InDesign, print masters, full-size sources and private provenance remain in the local production package.
