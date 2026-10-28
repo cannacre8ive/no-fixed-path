@@ -26,6 +26,7 @@ The home page now includes a companion bookshelf below the original reader. No F
 | Interior Weather | Existing digital art and Midjourney explorations | https://no-fixed-path.vercel.app/zines/interior-weather |
 | The Only Place That Felt Like Home | Cabin journal, 48 pages | https://no-fixed-path.vercel.app/zines/the-only-place |
 | Open Invitation | Friends / festivals / California, 48 pages | https://no-fixed-path.vercel.app/zines/open-invitation |
+| After the Turn | Personal archive, 48 pages | https://no-fixed-path.vercel.app/zines/after-the-turn |
 | Afterimage, first edition | The preserved original concert companion | https://no-fixed-path.vercel.app/zines/afterimage |
 
 Each companion has an accessible web reader, downloadable reading PDF, dedicated social preview and canonical URL. Reader links can retain a specific page, for example `/zines/afterimage-v2#page-9`. The copy-link control copies that public URL. Keyboard navigation supports left/right arrows and Home/End when the reader is focused. The first edition remains available from the revised Afterimage page and its home-page entry.
@@ -67,3 +68,7 @@ The homepage adds a navigation link and a separate art feature. Existing No Fixe
 ## Open Invitation
 
 The new 48-page personal-archive edition is an additional companion. It does not attribute every photograph to Spencer Gray; credits appear where known. It has its own reading page, exact reading-PDF download, chapter links, page-specific share control and curated 1200 × 630 social image. The original No Fixed Path, all previous companion readers and the art collection are retained. Native InDesign, print masters, full-size sources and private provenance remain in the local production package.
+
+## After the Turn
+
+The new 48-page personal-archive edition is an additional companion. Individual camera credits are unestablished; do not assume sole photographic authorship by Spencer Gray for this edition. It has its own reading page, exact reading-PDF download, chapter links, page-specific share control and curated 1200 × 630 social image. The original No Fixed Path, all previous companion readers and the art collection are retained. Native InDesign, print masters, full-size sources and private provenance remain in the local production package.

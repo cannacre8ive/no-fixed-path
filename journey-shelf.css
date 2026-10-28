@@ -1,0 +1,17 @@
+.journey-edition .edition-intro h1{font-family:var(--serif);font-size:clamp(48px,5.9vw,92px);font-weight:400;letter-spacing:-.055em;line-height:.98}.companion-shelf>.journey-book{grid-column:1/-1;display:grid;grid-template-columns:minmax(220px,.8fr) minmax(0,1.2fr);gap:8%;align-items:center;border-top:1px solid var(--ink);padding-top:60px;margin-top:20px}.journey-book>.book-cover{width:100%;max-width:340px;margin:0 auto}.journey-book-copy{max-width:550px}.journey-book-copy .book-label{padding-top:0;max-width:480px}.journey-book-copy h3{font-family:var(--serif);font-weight:400;font-size:clamp(38px,4.4vw,66px);line-height:.97;margin:14px 0 22px}.journey-book-copy>p{font:20px/1.5 var(--serif);margin:0 0 28px;max-width:460px}.journey-book-actions{display:flex;gap:28px;flex-wrap:wrap;align-items:center}.journey-chapters{display:flex;flex-wrap:wrap;gap:8px;margin:0 auto 22px;max-width:1000px}.journey-chapters a{font:12px/1.5 var(--sans);border:1px solid #7c8475;text-decoration:none;padding:8px 12px}.journey-chapters a:hover{background:var(--ink);color:var(--paper)}
+@media(max-width:800px){.companion-shelf>.journey-book{gap:7%;padding-top:45px}.journey-book-copy h3{font-size:43px}.journey-book-copy>p{font-size:18px}}
+@media(max-width:540px){.companion-shelf>.journey-book{display:block;padding-top:45px;margin-top:0}.journey-book>.book-cover{width:82%;margin:0 auto 26px}.journey-book-copy .book-label{padding-top:0}.journey-book-copy h3{font-size:43px;margin-top:8px}.journey-book-copy>p{font-size:18px;margin-bottom:22px}.journey-chapters a{font-size:11px;padding:8px 10px}}
+.journey-edition{--paper:#f2ece0;--ink:#263f36;--acid:#b66a4c;background:var(--paper);color:var(--ink)}
+.journey-edition .edition-category,.journey-edition .share-status{color:var(--ink)}
+.journey-edition .button{background:var(--ink);color:#fff}
+.journey-edition .reader-section{background:var(--paper)}
+.journey-edition .page-stage{background:#d9ddd5}
+.journey-edition .more-editions{border-color:var(--ink)}
+.journey-edition .edition-cover{transform:none}
+.journey-edition .edition-cover img{box-shadow:8px 10px 0 #d6d9d0,10px 12px 24px #152a2114}
+.journey-edition .edition-intro h1{font-family:var(--serif);font-weight:400;text-transform:none;letter-spacing:-.055em;line-height:.98;font-size:clamp(54px,7vw,108px)}
+.journey-edition .masthead nav{flex-wrap:wrap;gap:16px}
+.journey-book{background:#f2ece0;padding:45px 35px;color:#263f36}
+.journey-book .book-cover{transform:none}
+.journey-book .book-label{color:#263f36}
+@media(max-width:540px){.journey-book{padding:35px 20px}.journey-edition .edition-intro h1{font-size:14vw;overflow-wrap:anywhere}}
